@@ -9,6 +9,6 @@ Project list:
 
 * Project 3: Analyzed two images taken by Nickel 1-m telescope at Lick Observatory to characterize the motion of the asteroid Parthenope (large, bright, main belt asteroid). Removing bias from the data was critical so we could successfully use image recognition and processing functions to identify the position of the asteroid. We then queried the USNO database to match up our asteroid centroids with the existing data. Data correction also had to be done to account for the fact that we could not assume an ideal camera, and we also needed to correct for aspects such as shear and distortion. 
 
-Primary packages used: numpy, astropy.io.fits, matplotlib. Most functions (even primitive ones) were written in house for practice. 
+Primary packages used: numpy, pandas, astropy.io.fits, matplotlib. Most functions (even primitive ones) were written in house for practice. 
 
 Note: The code offers little explanation, looking at the report pdfs will allows you to interpret what is going on much better. 
