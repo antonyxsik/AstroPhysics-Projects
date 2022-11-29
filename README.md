@@ -11,4 +11,4 @@ Project list:
 
 Primary packages used: numpy, pandas, astropy.io.fits, matplotlib. Most functions (even primitive ones) were written in house for practice. 
 
-Note: The code offers little explanation, looking at the report pdfs will allows you to interpret what is going on much better. 
+Note: The code offers little explanation, looking at the report pdfs will allows you to interpret what is going on much better.
