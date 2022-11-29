@@ -8,3 +8,6 @@ Project list:
 * Project 2: Took data from a spectrometer and found the centroids (peaks) of our observed spectra using a centroid finding function that we wrote, compared them to theoretical wavelengths, estimating the error, and used this wavelength calibration to produce a final spectra. This could be used in further experiments to identify the main elemental components of different objects in space (such as galaxies). Primarily used image recognition functions that we wrote and linear least squares fit.
 
 * Project 3: Analyzed two images taken by Nickel 1-m telescope at Lick Observatory to characterize the motion of the asteroid Parthenope (large, bright, main belt asteroid). Removing bias from the data was critical so we could successfully use image recognition and processing functions to identify the position of the asteroid. We then queried the USNO database to match up our asteroid centroids with the existing data. Data correction also had to be done to account for the fact that we could not assume an ideal camera, and we also needed to correct for aspects such as shear and distortion. 
+
+
+Note: The code offers little explanation, looking at the report pdfs will allows you to interpret what is going on much better. 
